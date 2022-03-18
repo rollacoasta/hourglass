@@ -78,17 +78,17 @@ namespace Hourglass.Windows
         /// The default margin for the <see cref="Border"/> control that visualize validation errors and expired timer
         /// state.
         /// </summary>
-        private const double BaseBorderMargin = 15;
+        private const double BaseBorderMargin = 10;
 
         /// <summary>
         /// The default width of a <see cref="timerWindow"/>.
         /// </summary>
-        private const double BaseWindowWidth = 350;
+        private const double BaseWindowWidth = 200;
 
         /// <summary>
         /// The default height of a <see cref="timerWindow"/>.
         /// </summary>
-        private const double BaseWindowHeight = 150;
+        private const double BaseWindowHeight = 80;
 
         /// <summary>
         /// The reduction factor that relates the base scale factor with the reduced scale factor.
